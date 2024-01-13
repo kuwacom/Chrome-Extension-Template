@@ -1,2 +1,4 @@
-# Chrome-Extension-Template
-chromeの拡張機能のテンプレート
+# What Is This
+chromeの拡張機能のテンプレートです
+
+viteを利用しています
